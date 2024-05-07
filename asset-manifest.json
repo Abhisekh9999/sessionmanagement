@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sessionmanagement/static/css/main.eefd8527.css",
+    "main.js": "/sessionmanagement/static/js/main.b4268751.js",
+    "static/js/453.b8937c3b.chunk.js": "/sessionmanagement/static/js/453.b8937c3b.chunk.js",
+    "index.html": "/sessionmanagement/index.html",
+    "main.eefd8527.css.map": "/sessionmanagement/static/css/main.eefd8527.css.map",
+    "main.b4268751.js.map": "/sessionmanagement/static/js/main.b4268751.js.map",
+    "453.b8937c3b.chunk.js.map": "/sessionmanagement/static/js/453.b8937c3b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eefd8527.css",
+    "static/js/main.b4268751.js"
+  ]
+}
